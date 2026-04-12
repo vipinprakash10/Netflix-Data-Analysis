@@ -27,7 +27,4 @@ The Power BI Dashboard provides a high-level view of the library, featuring:
  * Geographic Insights: The US and India lead in content production.
  * Demographics: A significant focus on the TV-MA (Mature) audience segment.
 
-How to Run
- * SQL Setup: Execute the .sql scripts in MySQL Workbench to build the database.
- * Power BI: Open the .pbix file (ensure the data source points to your local MySQL instance).
- * Report: Reference the Project_Report.docx for the full technical breakdown.
+
